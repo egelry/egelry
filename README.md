@@ -3,11 +3,7 @@
 
 ## Computer Engineering
 
-- 🔭 JAVA
-- 👯 HTML-CSS
-- 🥅 React-Native AND Flutter
-- ⚡ Unity
-- 🌱 I’m currently learning everything 🤣
+
 
 
 ### Connect with me:
