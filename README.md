@@ -1,4 +1,4 @@
-### Hi there, I'm destroyerEEGGEEdestroyer👋
+### Hi there
 
 
 ## Computer Engineering
