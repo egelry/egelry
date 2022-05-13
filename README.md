@@ -1,6 +1,3 @@
-### Hi there
-
-
 ## Computer Engineering
 
 
